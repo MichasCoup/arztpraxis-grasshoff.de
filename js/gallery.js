@@ -1,0 +1,1 @@
+var $overlay=$('<div id="overlay"></div>'),$image=$("<img>");$overlay.append($image),$("body").append($overlay),$(".photo-element a").click(function(e){e.preventDefault();var a=$(this).attr("href");$image.attr("src",a),$overlay.show()}),$("#overlay").click(function(){$("#overlay").hide()});
