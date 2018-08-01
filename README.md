@@ -2,4 +2,4 @@
 website prototype for a doctor's office
 
 actual build:
-http://praxis.mflach.bplaced.net
+https://michascoup.github.io/prototype-drgrass/
